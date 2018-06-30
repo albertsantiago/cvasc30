@@ -1,0 +1,107 @@
+body{
+    background: #e7e6fc;
+    font-family: 'Quicksand', sans-serif;
+}
+
+ .container{
+    color: #2f89fc;
+    text-align: left;
+    margin-left: 1em;
+    padding-top: 0.5px;
+}
+
+.container h3{
+    color: #718093;
+}
+
+.linea{  
+    width: 80%;
+    border: 2px solid #2f89fc;
+    border-radius: 10px;
+}
+
+.aboutme{
+    text-align: left;
+    margin-left: 1em;
+    padding-top: 0.5px;
+}
+
+.aboutme h2{
+    color: #2f89fc;
+}
+
+.aboutme p{
+    color: #535c68;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.education{
+    text-align: left;
+    margin-left: 1em;
+    padding-top: 0.5px;
+}
+
+.education h2{
+    color: #2f89fc;
+}
+
+.education h3{
+    color: #718093;
+}
+
+.experience{
+    text-align: left;
+    margin-left: 1em;
+    padding-top: 0.5px;
+}
+
+.experience h2{
+    color: #2f89fc;
+}
+
+.experience p{
+    color:#535c68;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.interests{
+    text-align: left;
+    margin-left: 1em;
+    padding-top: 0.5px;
+}
+
+.interests h2 {
+    color:#2f89fc;
+}
+
+.interests p {
+    color:#535c68;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+footer .redes-sociales {
+	background: #2f89fc;
+	padding: 25px;
+}
+
+footer .redes-sociales .contenedor {
+	display: flex;
+	justify-content:center;
+}
+
+footer .redes-sociales a {
+	color: #fff;
+	text-align: center;
+	width: 100px;
+	display: block;
+	padding: 15px 0;
+	border-radius: 3px;
+	font-size: 30px;
+	margin: 0 20px;
+}
+
+footer .redes-sociales .twitter:hover {	background: #1da1f2;}
+footer .redes-sociales .github:hover { background: #666666;}
